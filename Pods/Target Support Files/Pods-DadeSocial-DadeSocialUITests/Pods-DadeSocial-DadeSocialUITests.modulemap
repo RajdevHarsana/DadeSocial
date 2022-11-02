@@ -1,0 +1,6 @@
+framework module Pods_DadeSocial_DadeSocialUITests {
+  umbrella header "Pods-DadeSocial-DadeSocialUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
